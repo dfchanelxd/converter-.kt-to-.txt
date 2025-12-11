@@ -1,32 +1,30 @@
-# 💻 Simple KT to TXT Converter 
+# 💻 Simple KT to TXT Converter
 
-**A Fast, Secure, and Browser-Based Utility**
+**Fast, Secure, and Browser-Based Utility**
 
-Welcome to the repository for the **KT to TXT Converter**! This is a simple, modern web tool designed to convert your Kotlin Source Files (`.kt`) into plain text files (`.txt`) right in your browser. Perfect for easy viewing, sharing, or creating code snippets.
+Welcome to the repository for the **KT to TXT Converter**! This is a simple, modern web tool designed to convert your Kotlin Source Files (`.kt`) into plain text files (`.txt`) right in your browser. It is perfectly suited for viewing, sharing, or creating code snippets with ease.
 
-## ✨ Features
+## ✨ Key Features
 
-* **100% Client-Side:** Your code is safe! All conversions happen *locally* within your browser using JavaScript's FileReader. Your file **never** leaves your device.
+* **100% Client-Side:** Your code is safe! All conversions happen **locally** within your browser using JavaScript FileReader. Your file **never** leaves your device.
 * **Offline Support:** Works perfectly even without an internet connection.
-* **Non-Destructive:** It creates a brand new `.txt` copy, ensuring your original `.kt` source file remains safe and untouched.
-* **OS Independent:** Forget about permission issues or hidden file extensions—works seamlessly on Windows, macOS, Linux, and mobile browsers.
-* **Modern UI:** Built with a sleek interface featuring smooth animations (Glassmorphism style).
-* **Instant & Easy:** Supports Drag & Drop for quick file selection and offers zero-latency, instant conversion.
+* **Non-Destructive:** This tool creates an entirely new `.txt` copy, ensuring your original `.kt` source file remains safe and untouched.
+* **Modern UI:** Built with a sleek interface and smooth animations (Glassmorphism style).
+* **Instant & Easy:** Supports the *Drag & Drop* feature for quick file selection and offers instant processing without *latency*.
 
-## ❓ Why use this instead of manual renaming?
+## ❓ Why use this instead of renaming the file manually?
 
-While you *could* manually rename a file extension, this tool offers significant workflow advantages:
+While you *could* change the file extension manually, this tool offers significant workflow advantages:
 
-1.  **Mobile Convenience:** Changing file extensions on mobile devices (Android/iOS) is often tedious and requires specific file manager steps. This web app makes it instant.
-2.  **Safe & Clean:** You get a clean text copy without having to worry about backup or accidentally modifying the original source code.
+1. **Mobile Convenience:** Changing file extensions on mobile devices (Android/iOS) is often complicated and requires specific file manager steps. This web application makes it instant.
+2. **Safe & Clean:** You get a clean text copy without having to worry about backup or accidentally modifying the original source code.
 
 ## 🛠️ How to Use
 
-1.  Clone or download this repository.
-2.  Open the (https://dfchanelxd.github.io/converter-.kt-to-.txt/converter.html) in any modern web browser (Chrome, Firefox, Edge, Safari).
-3.  Drag and drop your desired `.kt` file onto the page.
-4.  Click the 'Convert & Download' button.
-5.  Done! Your `.txt` file is ready.
+1. Visit the KT to TXT web application at: [Web Application Link](https://dfchanelxd.github.io/converter-kt-to-txt/converter.html)
+2. Drag and drop your desired `.kt` file onto the application page.
+3. Click the 'Convert & Download' button.
+4. Done! Your `.txt` file is ready.
 
 ---
 
