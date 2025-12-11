@@ -9,7 +9,6 @@ Selamat datang di repositori untuk **Konverter KT ke TXT**! Ini adalah alat web 
 * **100% Sisi Klien (Client-Side):** Kode Anda aman! Semua konversi terjadi **secara lokal** di dalam browser Anda menggunakan JavaScript FileReader. File Anda **tidak pernah** meninggalkan perangkat Anda.
 * **Dukungan Offline:** Berfungsi dengan sempurna bahkan tanpa koneksi internet.
 * **Non-Destructive:** Alat ini membuat salinan `.txt` yang benar-benar baru, memastikan file sumber `.kt` asli Anda tetap aman dan tidak tersentuh.
-* **Independen OS:** Lupakan masalah izin atau ekstensi file yang tersembunyi—berfungsi mulus di Windows, macOS, Linux, dan browser seluler.
 * **UI Modern:** Dibuat dengan antarmuka yang ramping dan animasi halus (gaya Glassmorphism).
 * **Instan & Mudah:** Mendukung fitur *Drag & Drop* untuk pemilihan file yang cepat dan menawarkan pemrosesan instan tanpa *latency*.
 
