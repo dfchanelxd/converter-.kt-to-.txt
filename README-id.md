@@ -23,7 +23,7 @@ Meskipun Anda *bisa* mengganti ekstensi file secara manual, alat ini menawarkan 
 ## 🛠️ Cara Menggunakan
 
 1.  *Clone* atau unduh repositori ini.
-2.  Buka file `index.html` di *web browser* modern apa pun (Chrome, Firefox, Edge, Safari).
+2.  Buka file (https://dfchanelxd.github.io/converter-.kt-to-.txt/converter.html) di *web browser* modern apa pun (Chrome, Firefox, Edge, Safari).
 3.  Seret dan lepas (Drag and drop) file `.kt` yang Anda inginkan ke halaman.
 4.  Klik tombol 'Convert & Download'.
 5.  Selesai! File `.txt` Anda siap.
