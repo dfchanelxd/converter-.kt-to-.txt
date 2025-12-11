@@ -21,7 +21,7 @@ While you *could* change the file extension manually, this tool offers significa
 
 ## 🛠️ How to Use
 
-1. Visit the KT to TXT web application at: [Web Application Link](https://dfchanelxd.github.io/converter-kt-to-txt/index.html)
+1. Visit the KT to TXT web application at: [Converter Web Link](https://dfchanelxd.github.io/converter-.kt-to-.txt/index.html)
 2. Drag and drop your desired `.kt` file onto the application page.
 3. Click the 'Convert & Download' button.
 4. Done! Your `.txt` file is ready.
