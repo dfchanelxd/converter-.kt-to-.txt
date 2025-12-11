@@ -1,35 +1,35 @@
-# 💻 Simple KT to TXT Converter 
+# 💻 Konverter KT ke TXT Sederhana
 
-**A Fast, Secure, and Browser-Based Utility**
+**Utilitas Cepat, Aman, dan Berbasis Browser**
 
-Welcome to the repository for the **KT to TXT Converter**! This is a simple, modern web tool designed to convert your Kotlin Source Files (`.kt`) into plain text files (`.txt`) right in your browser. Perfect for easy viewing, sharing, or creating code snippets.
+Selamat datang di repositori untuk **Konverter KT ke TXT**! Ini adalah alat web sederhana dan modern yang dirancang untuk mengkonversi File Sumber Kotlin (`.kt`) Anda menjadi file teks biasa (`.txt`) langsung di browser Anda. Sangat cocok untuk tujuan melihat, berbagi, atau membuat potongan kode (code snippets) dengan mudah.
 
-## ✨ Features
+## ✨ Fitur Utama
 
-* **100% Client-Side:** Your code is safe! All conversions happen *locally* within your browser using JavaScript's FileReader. Your file **never** leaves your device.
-* **Offline Support:** Works perfectly even without an internet connection.
-* **Non-Destructive:** It creates a brand new `.txt` copy, ensuring your original `.kt` source file remains safe and untouched.
-* **OS Independent:** Forget about permission issues or hidden file extensions—works seamlessly on Windows, macOS, Linux, and mobile browsers.
-* **Modern UI:** Built with a sleek interface featuring smooth animations (Glassmorphism style).
-* **Instant & Easy:** Supports Drag & Drop for quick file selection and offers zero-latency, instant conversion.
+* **100% Sisi Klien (Client-Side):** Kode Anda aman! Semua konversi terjadi **secara lokal** di dalam browser Anda menggunakan JavaScript FileReader. File Anda **tidak pernah** meninggalkan perangkat Anda.
+* **Dukungan Offline:** Berfungsi dengan sempurna bahkan tanpa koneksi internet.
+* **Non-Destructive:** Alat ini membuat salinan `.txt` yang benar-benar baru, memastikan file sumber `.kt` asli Anda tetap aman dan tidak tersentuh.
+* **Independen OS:** Lupakan masalah izin atau ekstensi file yang tersembunyi—berfungsi mulus di Windows, macOS, Linux, dan browser seluler.
+* **UI Modern:** Dibuat dengan antarmuka yang ramping dan animasi halus (gaya Glassmorphism).
+* **Instan & Mudah:** Mendukung fitur *Drag & Drop* untuk pemilihan file yang cepat dan menawarkan pemrosesan instan tanpa *latency*.
 
-## ❓ Why use this instead of manual renaming?
+## ❓ Kenapa harus pakai ini daripada ganti nama file secara manual?
 
-While you *could* manually rename a file extension, this tool offers significant workflow advantages:
+Meskipun Anda *bisa* mengganti ekstensi file secara manual, alat ini menawarkan keuntungan alur kerja yang signifikan:
 
-1.  **Mobile Convenience:** Changing file extensions on mobile devices (Android/iOS) is often tedious and requires specific file manager steps. This web app makes it instant.
-2.  **Safe & Clean:** You get a clean text copy without having to worry about backup or accidentally modifying the original source code.
+1.  **Kenyamanan Mobile:** Mengubah ekstensi file di perangkat seluler (Android/iOS) seringkali rumit dan memerlukan langkah-langkah manajer file yang spesifik. Aplikasi web ini membuatnya instan.
+2.  **Aman & Bersih:** Anda mendapatkan salinan teks yang bersih tanpa perlu khawatir tentang *backup* atau tidak sengaja memodifikasi kode sumber asli.
 
-## 🛠️ How to Use
+## 🛠️ Cara Menggunakan
 
-1.  Clone or download this repository.
-2.  Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
-3.  Drag and drop your desired `.kt` file onto the page.
-4.  Click the 'Convert & Download' button.
-5.  Done! Your `.txt` file is ready.
+1.  *Clone* atau unduh repositori ini.
+2.  Buka file `index.html` di *web browser* modern apa pun (Chrome, Firefox, Edge, Safari).
+3.  Seret dan lepas (Drag and drop) file `.kt` yang Anda inginkan ke halaman.
+4.  Klik tombol 'Convert & Download'.
+5.  Selesai! File `.txt` Anda siap.
 
 ---
 
-**Made with 💖 by [@dfchanelxd]**
+**Dibuat dengan 💖 oleh [@dfchanelxd]**
 
-*Don't forget to check out my YouTube channel, **DFCHANELXD**, for more tech projects and gaming content!*
+*Jangan lupa cek channel YouTube saya, **DFCHANELXD**, untuk proyek teknologi dan konten gaming lainnya!*
