@@ -1,22 +1,35 @@
-# Kotlin to Text Converter (.kt -> .txt)
+# 💻 Simple KT to TXT Converter 
 
-Web app sederhana buat convert file `.kt` jadi `.txt` tanpa ribet. Tampilannya dibikin modern (Glassmorphism) biar enak dipandang.
+**A Fast, Secure, and Browser-Based Utility**
 
-## "Kenapa gak di-rename manual aja?"
+Welcome to the repository for the **KT to TXT Converter**! This is a simple, modern web tool designed to convert your Kotlin Source Files (`.kt`) into plain text files (`.txt`) right in your browser. Perfect for easy viewing, sharing, or creating code snippets.
 
-Mungkin banyak yang mikir, *"Kan tinggal ganti nama file dari .kt jadi .txt beres?"*
+## ✨ Features
 
-Bener, tapi tools ini dibuat karena beberapa alasan praktis:
+* **100% Client-Side:** Your code is safe! All conversions happen *locally* within your browser using JavaScript's FileReader. Your file **never** leaves your device.
+* **Offline Support:** Works perfectly even without an internet connection.
+* **Non-Destructive:** It creates a brand new `.txt` copy, ensuring your original `.kt` source file remains safe and untouched.
+* **OS Independent:** Forget about permission issues or hidden file extensions—works seamlessly on Windows, macOS, Linux, and mobile browsers.
+* **Modern UI:** Built with a sleek interface featuring smooth animations (Glassmorphism style).
+* **Instant & Easy:** Supports Drag & Drop for quick file selection and offers zero-latency, instant conversion.
 
-1.  **Ribet kalau di HP:** Ganti ekstensi file di Android/iOS itu step-nya lumayan panjang. Harus buka file manager, cari setting, rename, hapus `.kt`, ketik `.txt`. Pake web ini tinggal upload -> download.
-2.  **File Asli Tetap Aman:** Kalau rename manual, file `.kt` nya berubah. Kalau pake ini, kita dapet file `.txt` baru tanpa ngerusak source code aslinya.
-3.  **Masalah Windows:** Di PC kadang ekstensi file suka ke-hide. Niatnya rename, eh malah jadinya `Main.txt.kt`. Tools ini mastiin formatnya bener-bener berubah.
-4.  **Privasi Aman (Client-Side Only):** Ini yang paling penting. Web ini jalan 100% di browser kamu pake JavaScript. Gak ada upload-upload file ke server. Jadi kodingan kamu aman, gak bakal bocor kemana-mana.
+## ❓ Why use this instead of manual renaming?
 
-## Fitur
-- **UI Kaca (Glassmorphism):** Tampilan estetik dengan animasi background.
-- **Drag & Drop:** Tinggal geser file, gak perlu klik-klik menu.
-- **Offline Ready:** Bisa dipake pas gak ada internet (karena gak butuh server).
+While you *could* manually rename a file extension, this tool offers significant workflow advantages:
 
-## Cara Pakai
-Cukup buka file `index.html` di browser (Chrome, Firefox, dll), masukin file `.kt`, terus klik convert. Beres.
+1.  **Mobile Convenience:** Changing file extensions on mobile devices (Android/iOS) is often tedious and requires specific file manager steps. This web app makes it instant.
+2.  **Safe & Clean:** You get a clean text copy without having to worry about backup or accidentally modifying the original source code.
+
+## 🛠️ How to Use
+
+1.  Clone or download this repository.
+2.  Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
+3.  Drag and drop your desired `.kt` file onto the page.
+4.  Click the 'Convert & Download' button.
+5.  Done! Your `.txt` file is ready.
+
+---
+
+**Made with 💖 by [@dfchanelxd]**
+
+*Don't forget to check out my YouTube channel, **DFCHANELXD**, for more tech projects and gaming content!*
