@@ -9,7 +9,6 @@ Welcome to the repository for the **KT to TXT Converter**! This is a simple, mod
 * **100% Client-Side:** Your code is safe! All conversions happen **locally** within your browser using JavaScript FileReader. Your file **never** leaves your device.
 * **Offline Support:** Works perfectly even without an internet connection.
 * **Non-Destructive:** This tool creates an entirely new `.txt` copy, ensuring your original `.kt` source file remains safe and untouched.
-* **Modern UI:** Built with a sleek interface and smooth animations (Glassmorphism style).
 * **Instant & Easy:** Supports the *Drag & Drop* feature for quick file selection and offers instant processing without *latency*.
 
 ## ❓ Why use this instead of renaming the file manually?
