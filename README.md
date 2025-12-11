@@ -30,6 +30,6 @@ While you *could* manually rename a file extension, this tool offers significant
 
 ---
 
-**Made with 💖 by [Your GitHub Username - e.g., @dffchanelid]**
+**Made with 💖 by [@dfchanelxd]**
 
-*Don't forget to check out my YouTube channel, **FinnTheTech**, for more tech projects and gaming content!*
+*Don't forget to check out my YouTube channel, **DFCHANELXD**, for more tech projects and gaming content!*
