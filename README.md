@@ -23,7 +23,7 @@ While you *could* manually rename a file extension, this tool offers significant
 ## 🛠️ How to Use
 
 1.  Clone or download this repository.
-2.  Open the `https://dfchanelxd.github.io/converter-.kt-to-.txt/converter.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
+2.  Open the (https://dfchanelxd.github.io/converter-.kt-to-.txt/converter.html) in any modern web browser (Chrome, Firefox, Edge, Safari).
 3.  Drag and drop your desired `.kt` file onto the page.
 4.  Click the 'Convert & Download' button.
 5.  Done! Your `.txt` file is ready.
